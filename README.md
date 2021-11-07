@@ -15,4 +15,4 @@ The features implemented are init, add, commit, rm, log, global-log, find, statu
 * Maintaining related sequences of commits, called branches.
 * Merging changes made in one branch into another.
 
-Full specs: https://sp21.datastructur.es/
+Full specs: https://sp21.datastructur.es/materials/proj/proj2/proj2
