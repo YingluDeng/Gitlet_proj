@@ -6,6 +6,7 @@ The project involves creating a version control system which mimics some of the 
 
 The features implemented are init, add, commit, rm, log, global-log, find, status, checkout, branch, rm-branch, reset, and merge.
 
+<img src="https://github.com/YingluDeng/Gitlet_proj/blob/main/Screen%20Shot%202021-11-07%20at%203.45.58%20AM.png" />
 
 ### A version-control system is essentially a backup system for related collections of files. The main functionality that Gitlet supports is:
 
