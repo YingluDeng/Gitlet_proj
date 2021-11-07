@@ -1,8 +1,6 @@
 # Gitlet_proj
 ### A project for Data Structures and Algorithms.
-Gitlet In this project you'll be implementing a version-control system that mimics some of the basic features of the popular system Git. Ours is smaller and simpler, however, so we have named it Gitlet.
-
-The project involves creating a version control system which mimics some of the basic features of Git, as well as some additional features. 
+In this project, we will implement a version-control system that mimics some of the basic features of the popular system Git. Ours is smaller and simpler, however, so we have named it Gitlet.
 
 The features implemented are init, add, commit, rm, log, global-log, find, status, checkout, branch, rm-branch, reset, and merge.
 
